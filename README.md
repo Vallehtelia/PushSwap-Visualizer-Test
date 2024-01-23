@@ -3,7 +3,7 @@
 push_swap is a visualizer tool designed to help users understand and optimize the sorting algorithm of the push_swap project, part of the 42 school curriculum. 
 This visualizer aids in observing the behavior of the algorithm in real-time, enabling a better understanding and debugging of the sorting process.
 
-![Screenshot of visualizer in action]()
+![Screenshot of visualizer in action](https://github.com/Vallehtelia/PushSwap-Visualizer-Test/assets/141771396/d1e0e2e3-588c-4ddf-9a7f-78d9bd8997cb)
 
 ## Features
 -Few tests to check if basic arguments are working.
