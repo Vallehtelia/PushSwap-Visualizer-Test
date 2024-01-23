@@ -55,7 +55,7 @@ class StackVisualizer:
         self.base_stack_height = self.screen_height // 2
 
         script_dir = os.path.dirname(os.path.realpath(__file__))
-       image_path = os.path.join(script_dir, 'images', 'Builder_bee_rad.jpg')
+        image_path = os.path.join(script_dir, 'images', 'Builder_bee_rad.jpg')
 
         self.background_image = pygame.image.load(image_path)
         self.background_image = pygame.transform.scale(self.background_image, (self.screen_width, self.screen_height))
