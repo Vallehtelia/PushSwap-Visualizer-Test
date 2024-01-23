@@ -40,10 +40,12 @@ Move files from `PushSwap-Visualizer-Test` to yours with following command:
 
 ### Python 3
 The project is developed using Python 3. Ensure that Python 3 is installed on your system. 
+
 You can download it from the [Offical python website](https://www.python.org/downloads/).
 
 ### Pygame
 This project uses Pygame for visualization. Once Python is installed, you can install Pygame using pip (Python's package installer). 
+
 Run the following command in your terminal:
 ```
 pip3 install pygame
